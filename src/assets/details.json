@@ -1,0 +1,29 @@
+{
+  "details": [
+    {
+      "company": "KL",
+      "contact": "123456",
+      "country": "India"
+    },
+    {
+      "company": "Infosys",
+      "contact": "763876",
+      "country": "US"
+    },
+    {
+      "company": "TCS",
+      "contact": "987654",
+      "country": "India"
+    },
+    {
+      "company": "Accenture",
+      "contact": "128765",
+      "country": "England"
+    },
+    {
+      "company": "Mindtree",
+      "contact": "127658",
+      "country": "Japan"
+    }
+  ]
+}
